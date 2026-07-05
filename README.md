@@ -42,4 +42,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
