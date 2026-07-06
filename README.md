@@ -33,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0118-pascals-triangle) |
 | [0704-binary-search](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
