@@ -20,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0125-valid-palindrome) |
@@ -31,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -49,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0118-pascals-triangle) |
