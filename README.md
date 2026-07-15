@@ -70,6 +70,7 @@
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
