@@ -57,6 +57,7 @@
 | [0053-maximum-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -80,6 +81,7 @@
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
