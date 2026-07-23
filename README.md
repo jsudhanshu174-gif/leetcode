@@ -40,6 +40,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -49,6 +50,7 @@
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
@@ -86,6 +88,7 @@
 | [0162-find-peak-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
