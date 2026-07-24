@@ -7,10 +7,7 @@ public:
         int sum = 0;
 
         double num=0;
-        if(nums.size()==1){
-            num=nums[0];
-            return num/k;
-        }
+      
          while (right < nums.size()) {
             sum = sum + nums[right];
             if (right >= k-1) {
