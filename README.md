@@ -94,6 +94,7 @@
 | [0283-move-zeroes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
@@ -147,4 +148,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
