@@ -13,7 +13,7 @@ public:
                 num2 = num1;
                 num1 = lastdigt;
             }
-            if (num1 > lastdigt && lastdigt > num2) {
+            else if (num1 > lastdigt && lastdigt > num2) {
                 num2 = lastdigt;
             }
             ans = num1 * num2;
