@@ -21,6 +21,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -89,6 +90,7 @@
 | [0035-search-insert-position](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0118-pascals-triangle) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
