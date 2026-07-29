@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -61,6 +62,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -115,6 +117,7 @@
 | [0704-binary-search](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
