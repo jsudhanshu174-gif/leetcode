@@ -53,6 +53,7 @@
 | ------- |
 | [0015-3sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
