@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
@@ -34,6 +35,7 @@
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
@@ -104,6 +106,7 @@
 | [0152-maximum-product-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
