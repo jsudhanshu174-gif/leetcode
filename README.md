@@ -71,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0118-pascals-triangle) |
@@ -94,6 +95,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0053-maximum-subarray) |
@@ -176,6 +178,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
