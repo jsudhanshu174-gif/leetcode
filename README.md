@@ -124,6 +124,7 @@
 | [0645-set-mismatch](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0860-lemonade-change](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -184,6 +185,7 @@
 | [0045-jump-game-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
