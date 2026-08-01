@@ -38,6 +38,7 @@
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -61,6 +62,7 @@
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
@@ -115,6 +117,7 @@
 | [0283-move-zeroes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -180,6 +183,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
