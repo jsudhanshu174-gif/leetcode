@@ -19,6 +19,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0119-pascals-triangle-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [0045-jump-game-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
