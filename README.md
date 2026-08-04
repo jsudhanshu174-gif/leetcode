@@ -54,6 +54,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3731-find-missing-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
