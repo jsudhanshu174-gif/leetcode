@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
@@ -78,6 +79,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0055-jump-game) |
@@ -214,6 +216,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
@@ -231,4 +234,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
