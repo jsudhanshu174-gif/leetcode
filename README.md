@@ -54,6 +54,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -68,6 +69,7 @@
 | [0018-4sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -129,6 +131,7 @@
 | [0162-find-peak-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0283-move-zeroes) |
@@ -251,4 +254,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
