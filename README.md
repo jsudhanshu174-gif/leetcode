@@ -54,6 +54,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
@@ -126,6 +127,7 @@
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0162-find-peak-element) |
@@ -262,4 +264,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
