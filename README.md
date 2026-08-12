@@ -64,6 +64,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -164,6 +165,7 @@
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -231,6 +233,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
