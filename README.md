@@ -172,6 +172,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -204,6 +205,7 @@
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0645-set-mismatch) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
