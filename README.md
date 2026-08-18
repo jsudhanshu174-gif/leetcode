@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
@@ -112,6 +113,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -309,4 +311,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
