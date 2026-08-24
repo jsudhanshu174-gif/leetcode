@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -324,6 +325,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0876-middle-of-the-linked-list) |
