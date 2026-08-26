@@ -179,6 +179,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 ## Minimax
 |  |
 | ------- |
@@ -331,4 +333,17 @@
 | [0061-rotate-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
