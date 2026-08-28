@@ -59,6 +59,7 @@
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -335,6 +336,7 @@
 | [0707-design-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
