@@ -50,6 +50,7 @@
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -91,6 +92,7 @@
 | [0018-4sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
@@ -239,6 +241,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Prefix Sum
@@ -351,6 +354,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -381,6 +385,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
