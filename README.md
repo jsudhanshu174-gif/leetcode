@@ -297,6 +297,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
@@ -375,6 +376,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -402,4 +404,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
