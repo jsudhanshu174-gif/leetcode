@@ -172,6 +172,7 @@
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0283-move-zeroes) |
@@ -277,6 +278,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
@@ -406,4 +409,13 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
