@@ -31,6 +31,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -271,6 +272,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -307,6 +309,7 @@
 | [0225-implement-stack-using-queues](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -428,6 +431,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
