@@ -161,6 +161,7 @@
 | [0045-jump-game-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0055-jump-game) |
@@ -307,6 +308,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
@@ -459,4 +461,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
