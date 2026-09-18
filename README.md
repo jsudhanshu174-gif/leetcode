@@ -43,6 +43,7 @@
 | [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -200,6 +202,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
@@ -245,6 +248,7 @@
 | [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
@@ -252,6 +256,7 @@
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
