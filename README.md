@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
@@ -166,6 +167,7 @@
 | [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
