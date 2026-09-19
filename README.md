@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0069-sqrtx) |
@@ -258,6 +259,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0287-find-the-duplicate-number) |
