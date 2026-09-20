@@ -48,6 +48,7 @@
 | [0566-reshape-the-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -211,6 +212,7 @@
 | [0735-asteroid-collision](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -257,6 +259,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
