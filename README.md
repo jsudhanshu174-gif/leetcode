@@ -227,6 +227,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -270,6 +271,7 @@
 | [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0867-transpose-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1572-matrix-diagonal-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
