@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
@@ -197,6 +198,7 @@
 | [0162-find-peak-element](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -386,6 +388,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
 |  |
@@ -534,4 +537,20 @@
 | [0100-same-tree](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
