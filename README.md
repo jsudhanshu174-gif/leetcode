@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -556,6 +558,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
