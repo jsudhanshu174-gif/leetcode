@@ -11,6 +11,7 @@
 | [0069-sqrtx](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@
 | [0058-length-of-last-word](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0402-remove-k-digits) |
@@ -162,6 +164,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
@@ -369,6 +372,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0234-palindrome-linked-list) |
