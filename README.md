@@ -406,6 +406,7 @@
 | [0020-valid-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Enumeration
 |  |
 | ------- |
