@@ -63,6 +63,7 @@
 | [0735-asteroid-collision](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -256,6 +257,7 @@
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1329-sort-the-matrix-diagonally](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -307,6 +309,7 @@
 | [0566-reshape-the-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1572-matrix-diagonal-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
