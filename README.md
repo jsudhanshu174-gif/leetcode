@@ -183,6 +183,7 @@
 | [0234-palindrome-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -406,6 +407,7 @@
 | [0735-asteroid-collision](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Minimax
 |  |
 | ------- |
@@ -484,6 +486,7 @@
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
@@ -535,6 +538,7 @@
 | [0402-remove-k-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2487-remove-nodes-from-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
