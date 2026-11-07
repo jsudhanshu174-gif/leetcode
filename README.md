@@ -124,6 +124,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -271,6 +272,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -492,6 +494,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
