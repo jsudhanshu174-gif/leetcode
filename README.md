@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0204-count-primes) |
@@ -44,6 +45,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0224-basic-calculator) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0498-diagonal-traverse) |
@@ -323,6 +326,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0231-power-of-two) |
