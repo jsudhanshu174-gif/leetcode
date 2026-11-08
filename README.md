@@ -246,6 +246,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -303,6 +304,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0400-nth-digit) |
+| [0493-reverse-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
@@ -346,6 +348,7 @@
 | [0148-sort-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0493-reverse-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -525,6 +528,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0493-reverse-pairs) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -654,4 +658,20 @@
 | [0098-validate-binary-search-tree](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
