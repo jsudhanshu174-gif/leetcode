@@ -738,4 +738,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
