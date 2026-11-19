@@ -287,6 +287,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1329-sort-the-matrix-diagonally](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -451,6 +452,7 @@
 | [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Minimax
@@ -534,6 +536,7 @@
 | [0328-odd-even-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -594,6 +597,7 @@
 | [0402-remove-k-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
