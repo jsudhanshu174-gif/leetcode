@@ -28,6 +28,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -135,6 +136,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -300,6 +302,7 @@
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -486,6 +489,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
