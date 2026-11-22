@@ -59,6 +59,7 @@
 | [0402-remove-k-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
