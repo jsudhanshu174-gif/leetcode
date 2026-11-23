@@ -27,6 +27,7 @@
 | [0877-stone-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -303,6 +304,7 @@
 | [1260-shift-2d-grid](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1329-sort-the-matrix-diagonally](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1352-product-of-the-last-k-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -400,6 +402,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -568,6 +571,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0729-my-calendar-i) |
+| [1352-product-of-the-last-k-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -576,6 +580,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1472-design-browser-history) |
 ## Floyd's Cycle Finding Algorithm
 |  |
