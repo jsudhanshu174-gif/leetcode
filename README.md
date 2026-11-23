@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0069-sqrtx) |
@@ -209,6 +210,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0224-basic-calculator) |
