@@ -319,6 +319,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1675-minimize-deviation-in-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1675-minimize-deviation-in-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -432,6 +433,7 @@
 | [0678-valid-parenthesis-string](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0881-boats-to-save-people) |
+| [1675-minimize-deviation-in-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1675-minimize-deviation-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -455,6 +457,7 @@
 | [0692-top-k-frequent-words](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1675-minimize-deviation-in-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1675-minimize-deviation-in-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -759,6 +762,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/0729-my-calendar-i) |
+| [1675-minimize-deviation-in-array](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1675-minimize-deviation-in-array) |
 ## Treap
 |  |
 | ------- |
