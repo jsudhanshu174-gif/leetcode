@@ -33,6 +33,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -81,6 +82,7 @@
 | [1260-shift-2d-grid](https://github.com/jsudhanshu174-gif/leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/jsudhanshu174-gif/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3360-stone-removal-game](https://github.com/jsudhanshu174-gif/leetcode/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
